@@ -1,0 +1,7 @@
+{
+  "presets": [
+    ["@babel/preset-env", { "modules": false }],  // Disable CommonJS conversion
+    "@babel/preset-react"
+  ]
+}
+

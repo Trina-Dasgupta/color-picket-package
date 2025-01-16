@@ -6,6 +6,16 @@
   "scripts": {
     "build": "babel src --out-dir dist --copy-files"
   },
+  "keywords": [
+    "react",
+    "color",
+    "color-picker",
+    "react-component",
+    "javascript",
+    "frontend",
+    "ui",
+    "picker"
+  ],
   "devDependencies": {
     "@babel/cli": "^7.18.10",
     "@babel/preset-env": "^7.18.10",

@@ -15,7 +15,7 @@ To install the package, run the following command:
 
 ```bash
 npm install react-color-picker-package
-
+```
 ```js
 import React, { useState } from 'react';
 import ColorPicker from 'react-color-picker-package';

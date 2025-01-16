@@ -40,8 +40,4 @@ export default App;
 ```
 
 
-### Notes:
-1. **Markdown Formatting**: By specifying the language after the triple backticks, such as `jsx` or `bash`, GitHub renders the code with appropriate syntax highlighting.
-2. **Maintain Readability**: Write in a structured way so it’s easy for others to follow.
-3. **Test Display**: After writing, you can preview your `README.md` in your repository to verify the layout and appearance.
 
